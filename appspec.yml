@@ -1,0 +1,17 @@
+version: 0.0
+os: linux
+
+files:
+  - source: /
+    destination: /var/www/cloudops-nodejs-cicd
+
+hooks:
+  ApplicationStop:
+    - location: deploy.sh
+      timeout: 60
+      runas: root
+
+  AfterInstall:
+    - location: deploy.sh
+      timeout: 300
+      runas: root

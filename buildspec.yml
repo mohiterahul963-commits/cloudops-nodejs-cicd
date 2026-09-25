@@ -1,0 +1,26 @@
+version: 0.2
+
+phases:
+  install:
+    commands:
+      - echo Installing dependencies...
+      - npm install
+
+  pre_build:
+    commands:
+      - echo Running tests...
+      - npm test
+
+  build:
+    commands:
+      - echo Build phase started...
+      - echo Application build completed successfully.
+
+  post_build:
+    commands:
+      - echo Build completed successfully.
+
+artifacts:
+  files:
+    - '**/*'
+  discard-paths: no

@@ -4,7 +4,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 app.get("/", (req, res) => {
-    res.send("CloudOps Node.js Application v2 is Running!");
+    res.send("CloudOps Node.js CI/CD - Version 3 Deployed Successfully!");
 });
 
 app.get("/health", (req, res) => {

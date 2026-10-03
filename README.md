@@ -1,3 +1,6 @@
+![Uploading CloudOps Node.js CI_CD Dashboard.png…]()
+
+
 # 🚀 CloudOps Node.js CI/CD Automation
 
 An AWS-based CI/CD project that automates the deployment of a Node.js application from GitHub to Amazon EC2 using AWS CodePipeline, AWS Lambda, and AWS Systems Manager (SSM).

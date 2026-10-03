@@ -1,4 +1,5 @@
-![Uploading CloudOps Node.js CI_CD Dashboard.png…]()
+
+<img width="1536" height="1024" alt="CloudOps Node js CI_CD Dashboard" src="https://github.com/user-attachments/assets/838967bf-a744-4910-b785-23a23372a547" />
 
 
 # 🚀 CloudOps Node.js CI/CD Automation

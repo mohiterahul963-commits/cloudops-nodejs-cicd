@@ -1,7 +1,3 @@
-
-<img width="1536" height="1024" alt="CloudOps Node js CI_CD Dashboard" src="https://github.com/user-attachments/assets/838967bf-a744-4910-b785-23a23372a547" />
-
-
 # 🚀 CloudOps Node.js CI/CD Automation
 
 An AWS-based CI/CD project that automates the deployment of a Node.js application from GitHub to Amazon EC2 using AWS CodePipeline, AWS Lambda, and AWS Systems Manager (SSM).
@@ -144,8 +140,4 @@ For production use, restrict public access to the application port and use HTTPS
 
 [View CloudOps Node.js CI/CD Automation](https://github.com/mohiterahul963-commits/cloudops-nodejs-cicd)
 
-## 👨‍💻 Author
-
-**Rahul Mohite**
-
-Aspiring AWS Cloud Engineer
+<img width="1536" height="1024" alt="CloudOps Node js CI_CD Dashboard" src="https://github.com/user-attachments/assets/838967bf-a744-4910-b785-23a23372a547" />
